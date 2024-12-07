@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Feiyu's Homepage"
 title_separator          : "-"
-name                     : &name "Feiyu Zhu (朱飞宇)"
-description              : &description "1st year Ph.D. student @ USC (University of Southern California)."
+name                     : &name "Feiyu Zhu"
+description              : &description "description"
 url                      : https://feiyu0214.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "feiyu0214/feiyu0214.github.io"
@@ -22,7 +22,7 @@ repository               : "feiyu0214/feiyu0214.github.io"
 author:
   # Biographic information
   avatar           : "pic_FeiyuZhu.jpg"
-  name             : "Feiyu Zhu"
+  name             : "Feiyu Zhu (朱飞宇)"
   pronouns         : # example: "she/her"  
   bio              : "Large Language Model with Graph"
   location         : "Los Angeles, CA"
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : “https://www.linkedin.com/in/feiyu-zhu-80686a310/”
+  linkedin         : “feiyu-zhu-80686a310”
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
