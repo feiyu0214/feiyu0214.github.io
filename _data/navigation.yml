@@ -6,7 +6,8 @@
 
 main:
   - title: "CV"
-    url: /cv/
+    # url: /cv/
+    url: /files/Feiyuzhu_CV.pdf
 
   - title: "Publications"
     url: /publications/
