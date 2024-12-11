@@ -3,7 +3,7 @@ title: "AddrMiner: A Fast, Efficient, and Comprehensive Global Active IPv6 Addre
 collection: publications
 category: manuscripts
 permalink: /publication/2024-06-13
-excerpt: 'This paper introduces AddrMiner, a fast, efficient, and comprehensive global active IPv6 address detection system.
+excerpt: 'This paper introduces AddrMiner, a fast, efficient, and comprehensive global active IPv6 address detection system.'
 date: 2024-06-13
 venue: 'IEEE/ACM Transactions on Networking'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10556607'
